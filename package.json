@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/sizing-utilities",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Sizing utilities for Savvy CSS.",
   "main": "build/sizing-utilities.css",
   "style": "build/sizing-utilities.css",
